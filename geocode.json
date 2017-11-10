@@ -1,0 +1,407 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAcm8_LYsDogRPExNo1FphZ8",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHyDL2cXSD4gRL6ENlLzZlZw",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9100672,
+               "lng" : -87.6315547
+            },
+            "southwest" : {
+               "lat" : 41.885704,
+               "lng" : -87.6796028
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "2:39am",
+                  "time_zone" : "America/Chicago",
+                  "value" : 1508571588
+               },
+               "departure_time" : {
+                  "text" : "2:21am",
+                  "time_zone" : "America/Chicago",
+                  "value" : 1508570488
+               },
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5592
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1100
+               },
+               "end_address" : "Wicker Park, Chicago, IL, USA",
+               "end_location" : {
+                  "lat" : 41.908932,
+                  "lng" : -87.6796028
+               },
+               "start_address" : "222 W Merchandise Mart Plaza #470, Chicago, IL 60654, USA",
+               "start_location" : {
+                  "lat" : 41.8883575,
+                  "lng" : -87.6367303
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 426
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 339
+                     },
+                     "end_location" : {
+                        "lat" : 41.8857522,
+                        "lng" : -87.6315547
+                     },
+                     "html_instructions" : "Walk to Clark/Lake",
+                     "polyline" : {
+                        "points" : "git~Fpp{uO?B@?j@e@Z[RSRQ~@aA|@y@XWDCNMD?FA@?@?@?@?BAC[A]?U?G?U?A?i@ByB?Gr@Ar@?dAAb@}M"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8883575,
+                        "lng" : -87.6367303
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "7 ft",
+                              "value" : 2
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 1
+                           },
+                           "end_location" : {
+                              "lat" : 41.8883574,
+                              "lng" : -87.6367528
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eN Orleans St\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "git~Fpp{uO?B"
+                           },
+                           "start_location" : {
+                              "lat" : 41.8883575,
+                              "lng" : -87.6367303
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 mi",
+                              "value" : 210
+                           },
+                           "duration" : {
+                              "text" : "3 mins",
+                              "value" : 165
+                           },
+                           "end_location" : {
+                              "lat" : 41.8867851,
+                              "lng" : -87.63538489999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Orleans St\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "git~Ftp{uO@?j@e@Z[RSRQ~@aA|@y@XWDCNMD?FA@?@?@?@?BA"
+                           },
+                           "start_location" : {
+                              "lat" : 41.8883574,
+                              "lng" : -87.6367528
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "387 ft",
+                              "value" : 118
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 89
+                           },
+                           "end_location" : {
+                              "lat" : 41.8868003,
+                              "lng" : -87.63396349999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eW Wacker Dr\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "m_t~Fbh{uOC[A]?U?G?U?A?i@ByB?G"
+                           },
+                           "start_location" : {
+                              "lat" : 41.8867851,
+                              "lng" : -87.63538489999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "315 ft",
+                              "value" : 96
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 84
+                           },
+                           "end_location" : {
+                              "lat" : 41.8857522,
+                              "lng" : -87.6315547
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Wells St\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "o_t~Ff_{uOr@Ar@?dAAb@}M"
+                           },
+                           "start_location" : {
+                              "lat" : 41.8868003,
+                              "lng" : -87.63396349999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.0 mi",
+                        "value" : 4851
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 540
+                     },
+                     "end_location" : {
+                        "lat" : 41.9100489,
+                        "lng" : -87.67796330000002
+                     },
+                     "html_instructions" : "Subway towards O'Hare",
+                     "polyline" : {
+                        "points" : "}xs~FdpzuO@??`B@~C@tE?lL@`L@`GEp@C^GPILsAnBg@v@q@dAqBvCeBhCeBlC_DxEsAxByA`CkCrEgB`Dg@z@yAjCiBfDaCjE_EhH{BvDwB|DaCpEi@bACBgAtByBvDoCxE}B`EkCxEaClE}AnCyB`E}BbEkAvBgCtEyAfCkArBeBjDkBtDq@pCaBbFo@bBk@nAkIdOkG`LcFvIaAbBBB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8857522,
+                        "lng" : -87.6315547
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 41.9100489,
+                              "lng" : -87.67796330000002
+                           },
+                           "name" : "Damen"
+                        },
+                        "arrival_time" : {
+                           "text" : "2:36am",
+                           "time_zone" : "America/Chicago",
+                           "value" : 1508571368
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 41.8857522,
+                              "lng" : -87.6315547
+                           },
+                           "name" : "Clark/Lake"
+                        },
+                        "departure_time" : {
+                           "text" : "2:27am",
+                           "time_zone" : "America/Chicago",
+                           "value" : 1508570828
+                        },
+                        "headsign" : "O'Hare",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Chicago Transit Authority",
+                                 "phone" : "1 888-YOURCTA",
+                                 "url" : "http://transitchicago.com/"
+                              }
+                           ],
+                           "color" : "#039be5",
+                           "name" : "Blue Line",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.transitchicago.com/riding_cta/systemguide/blueline.aspx",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/us-chicago-subway.png",
+                              "name" : "Subway",
+                              "type" : "SUBWAY"
+                           }
+                        },
+                        "num_stops" : 4
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 237
+                     },
+                     "end_location" : {
+                        "lat" : 41.908932,
+                        "lng" : -87.6796028
+                     },
+                     "html_instructions" : "Walk to Wicker Park, Chicago, IL, USA",
+                     "polyline" : {
+                        "points" : "ypx~FfrcvOd@iBXAP?t@?DlCjBCDxD?H@B?@a@BA??@?@@vA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9100489,
+                        "lng" : -87.67796330000002
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "177 ft",
+                              "value" : 54
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 41
+                           },
+                           "end_location" : {
+                              "lat" : 41.9093726,
+                              "lng" : -87.6774202
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Damen Ave\u003c/b\u003e toward \u003cb\u003eW Pierce Ave\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "ypx~FfrcvOd@iBXAP?t@?"
+                           },
+                           "start_location" : {
+                              "lat" : 41.9100489,
+                              "lng" : -87.67796330000002
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "194 ft",
+                              "value" : 59
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 47
+                           },
+                           "end_location" : {
+                              "lat" : 41.9093406,
+                              "lng" : -87.67813029999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eW Pierce Ave\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "qlx~FzncvODlC"
+                           },
+                           "start_location" : {
+                              "lat" : 41.9093726,
+                              "lng" : -87.6774202
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "197 ft",
+                              "value" : 60
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 44
+                           },
+                           "end_location" : {
+                              "lat" : 41.9087987,
+                              "lng" : -87.67811440000001
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "klx~FhscvOjBC"
+                           },
+                           "start_location" : {
+                              "lat" : 41.9093406,
+                              "lng" : -87.67813029999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "276 ft",
+                              "value" : 84
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 62
+                           },
+                           "end_location" : {
+                              "lat" : 41.9087558,
+                              "lng" : -87.67912099999999
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "_ix~FdscvODxD?H@B?@"
+                           },
+                           "start_location" : {
+                              "lat" : 41.9087987,
+                              "lng" : -87.67811440000001
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "190 ft",
+                              "value" : 58
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 43
+                           },
+                           "end_location" : {
+                              "lat" : 41.908932,
+                              "lng" : -87.6796028
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "whx~FnycvOa@BA??@?@@vA"
+                           },
+                           "start_location" : {
+                              "lat" : 41.9087558,
+                              "lng" : -87.67912099999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "git~Fpp{uO@BfAaAdDaD^[TMLA@?BAC[As@?]BmDfBAdAAb@}M@`BBtJ@nY@`GEp@C^GP}A|BqH~KeGfJmDzFuJ|PkFrJ_EhH{BvDyFnKm@fAoMhUeNxVkLxSkArBeBjDkBtDq@pCaBbFo@bBk@nAkIdOkG`LcFvIaAbBBBd@iBXAfA?DlCjBCDbE@Da@BAB@vA"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
